@@ -1,6 +1,6 @@
 # Analise eleitoral
 
-Trabalho desenvolvido por Carlos Daniel Albertino Vieria e David Cristian Motta Propato na matéria Programação Orientada a Objetos (Programação 3) na UFES sobre orientação do professor João Paulo Andrade Almeida. 
+Trabalho desenvolvido por Carlos Daniel Albertino Vieria (@paisdegales) e David Cristian Motta Propato (@Propato) na matéria Programação Orientada a Objetos (Programação 3) na UFES sobre orientação do professor João Paulo Andrade Almeida. 
 
 Este é o segundo trabalho da disciplina e consiste em implementar um sistema em C++ capaz de processar dados obtidos da Justiça Eleitoral referentes à votação de vereadores, de forma a levantar informações e gerar relatórios sobre as eleições de 2020 em um município, a fim de aplicar e desenvolver os conhecimentos adquiridos em aula. 
 
