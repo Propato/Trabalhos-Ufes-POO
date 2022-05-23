@@ -12,6 +12,7 @@ Através da linha de comando, quando se executo o programa são passados os ende
     Uma pasta com testes disponibilizados pelo professor que contém um script que executa os códigos e compara com as saídas geradas com as saídas esperadas automaticamente, indicando caso haja diferenças.
     E uma arquivo Makefile para compilar e executar os códigos. 
 
+
 ![File Structure](/assets/file-tree-trab2-prog3.png)
 >Pasta script não está inclusa a fim de simplificação.
 
