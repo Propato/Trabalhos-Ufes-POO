@@ -34,7 +34,7 @@ para as exceções de conversão de string para inteiro, a linguagem só reconhe
 
 # Nota do Professor -> 9.75
 
-![File Structure](/assets/Cabeçalho-part1.png)
-![File Structure](/assets/Nota-part1.png)
-![File Structure](/assets/Cabeçalho-part2.png)
-![File Structure](/assets/Nota-part2.png)
+![File Structure](assets/Cabeçalho-part1.png)
+![File Structure](assets/Nota-part1.png)
+![File Structure](assets/Cabeçalho-part2.png)
+![File Structure](assets/Nota-part2.png)
